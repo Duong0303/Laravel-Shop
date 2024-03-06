@@ -18,8 +18,7 @@ class AdminAddProductComponent extends Component
     public $regular_price;
     public $sale_price;
     public $sku;
-    public $stock_status ='instoc
-    k';
+    public $stock_status ='instock';
     public $featured = 0;
     public $quantity;
     public $image;
